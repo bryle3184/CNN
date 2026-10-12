@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: mnist_conv2d_medium_tutorial
+Version: 0.0.0
+Keywords: convolutional neural network,neural network,tensorflow,mnist
+Dynamic: keywords
